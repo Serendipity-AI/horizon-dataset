@@ -32,8 +32,10 @@ Each JSON object contains the following fields:
 
 - `"id"`: Unique identifier for the event.  
 - `"topic"`: Topic category (see above).  
-- `"title"`: A short textual description of the forecasted event.
+- `"title"`: A short name of the forecasted event.
+- `"description"`: A short textual description of the forecasted event.
 - `"valid"`: False if the event had happened even before the forecasting date.
+- `"timeframe"`: The timeframe against which the event probability should be computed.
 - `"outcome"`: Outcome label relative to the forecasting and fact-checking window:  
   - `1` = Event occurred  
   - `-1` = Event did not occur  
@@ -42,13 +44,15 @@ Each JSON object contains the following fields:
 ### Example
 
 ```json
-        {
-            "id": 0,
-            "topic": "Italy",
-            "title": "Italy hosts a major international summit on AI regulation in Rome",
-            "valid": true,
-            "outcome": 1
-        },
+{
+    "id": 0,
+    "topic": "Italy",
+    "title": "Italy hosts a major international summit on AI regulation in Rome",
+    "description": "Italy, leveraging its strategic position in the EU and its current focus on digital market regulation, hosts a significant international summit aimed at advancing discussions on a unified regulatory framework for artificial intelligence.",
+    "valid": true,
+    "timeframe": 1723593600,
+    "outcome": 1
+},
 ```
 
 ## Usage
