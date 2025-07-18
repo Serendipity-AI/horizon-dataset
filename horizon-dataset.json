@@ -1,0 +1,1354 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "topic": "Italy",
+            "title": "Italy hosts a major international summit on AI regulation in Rome",
+            "description": "Italy, leveraging its strategic position in the EU and its current focus on digital market regulation, hosts a significant international summit aimed at advancing discussions on a unified regulatory framework for artificial intelligence.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 1,
+            "topic": "Italy",
+            "title": "Rise in popularity of right-wing parties in Italy's local elections",
+            "description": "Amidst growing skepticism towards European integration and increasing nationalistic sentiments, right-wing parties gain significant traction in Italy's upcoming local elections.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 2,
+            "topic": "Italy",
+            "title": "Italy increases investment in renewable energy projects",
+            "description": "In response to the global push for sustainability and cleaner energy sources, Italy significantly increases its investment in solar and wind projects, aiming to reduce its carbon footprint and energy dependency.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 3,
+            "topic": "Italy",
+            "title": "Italy strengthens its defense cooperation with France and Germany",
+            "description": "Amidst growing regional tensions and the need for enhanced security, Italy strengthens its defense cooperation with France and Germany, focusing on joint military exercises and intelligence sharing.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 4,
+            "topic": "Italy",
+            "title": "Italy faces challenges in reducing greenhouse gas emissions",
+            "description": "Despite ambitious national goals, Italy faces significant challenges in reducing its greenhouse gas emissions due to economic pressures and industrial dependencies.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 5,
+            "topic": "Italy",
+            "title": "Italy implements new digital market regulations to promote competition",
+            "description": "Italy passes new legislation aimed at promoting competition and consumer choice in digital markets, targeting major tech companies and enhancing data protection laws.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 0
+        },
+        {
+            "id": 6,
+            "topic": "Italy",
+            "title": "Italy increases its agricultural exports due to new trade agreements",
+            "description": "Following new trade agreements with non-EU countries, Italy sees a significant increase in its agricultural exports, particularly in wine and olive oil, boosting its economy.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 7,
+            "topic": "Italy",
+            "title": "Italy experiences a surge in migrant arrivals",
+            "description": "Italy experiences a significant surge in migrant arrivals due to conflicts in North Africa and the Middle East, prompting a national debate on immigration policies and border security.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": -1
+        },
+        {
+            "id": 8,
+            "topic": "Italy",
+            "title": "Italy faces public protests over economic inequality",
+            "description": "Public protests erupt in major Italian cities over growing economic inequality and the perceived failure of government policies to address the needs of the lower and middle classes.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 9,
+            "topic": "Italy",
+            "title": "Italy leads a new EU initiative on Mediterranean security",
+            "description": "Italy spearheads a new European Union initiative aimed at enhancing security and cooperation in the Mediterranean region, addressing issues such as migration, terrorism, and maritime security.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 10,
+            "topic": "Artificial Intelligence",
+            "title": "EU introduces new AI regulatory framework",
+            "description": "The European Union announces a comprehensive AI regulatory framework aimed at enhancing transparency, accountability, and ethical use of AI technologies across its member states.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 11,
+            "topic": "Artificial Intelligence",
+            "title": "Major breakthrough in AI-driven drug discovery",
+            "description": "A leading biotech company announces a significant breakthrough in drug discovery using AI, leading to a promising new treatment for a previously hard-to-treat disease.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 12,
+            "topic": "Artificial Intelligence",
+            "title": "Global AI safety summit convened",
+            "description": "Countries around the world convene a global summit focused on AI safety, aiming to establish international norms and guidelines for the development and deployment of AI systems.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 13,
+            "topic": "Artificial Intelligence",
+            "title": "AI-driven automation leads to job restructuring",
+            "description": "A major corporation announces a restructuring of its workforce, attributing the change to increased efficiency brought about by AI-driven automation.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 14,
+            "topic": "Artificial Intelligence",
+            "title": "Surge in AI-powered educational tools",
+            "description": "Schools and universities increasingly adopt AI-powered tools to personalize learning and improve educational outcomes, particularly in remote learning environments.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 15,
+            "topic": "Artificial Intelligence",
+            "title": "New AI ethics board established",
+            "description": "A multinational tech company establishes an independent AI ethics board aimed at evaluating the ethical implications of its AI projects and ensuring they align with societal values.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 16,
+            "topic": "Artificial Intelligence",
+            "title": "AI-driven environmental monitoring system launched",
+            "description": "An international environmental organization launches an AI-driven system to monitor and predict environmental changes, aimed at better informing climate action strategies.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 17,
+            "topic": "Artificial Intelligence",
+            "title": "Breakthrough in AI quantum computing integration",
+            "description": "Researchers announce a breakthrough in integrating AI with quantum computing, significantly enhancing the capabilities of both technologies and opening new avenues for their application.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 18,
+            "topic": "Artificial Intelligence",
+            "title": "AI-driven public surveillance system expansion",
+            "description": "A major city announces the expansion of its AI-driven public surveillance system, citing improvements in public safety and crime prevention, but sparking debates over privacy and civil liberties.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 19,
+            "topic": "Artificial Intelligence",
+            "title": "AI-generated content regulation",
+            "description": "A government passes new legislation specifically targeting the regulation of AI-generated content, aiming to curb misinformation and protect intellectual property rights.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 20,
+            "topic": "Cybersecurity",
+            "title": "Major ransomware attack on a national power grid in Europe",
+            "description": "A sophisticated ransomware attack targets critical infrastructure, specifically a national power grid in Europe, causing widespread disruptions and raising significant concerns about national security and the resilience of critical infrastructure.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 21,
+            "topic": "Cybersecurity",
+            "title": "Implementation of AI-driven cybersecurity defenses by major financial institutions",
+            "description": "In response to increasing cyber threats, major financial institutions globally begin implementing advanced AI-driven cybersecurity defenses to protect against sophisticated cyber attacks and ensure the security of financial transactions.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 22,
+            "topic": "Cybersecurity",
+            "title": "New government regulations on ransomware payments in the United States",
+            "description": "The U.S. government introduces new regulations that restrict the payment of ransoms to cybercriminals, aiming to reduce the profitability of ransomware attacks and discourage future incidents.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 23,
+            "topic": "Cybersecurity",
+            "title": "Cyber attack disrupts COVID-19 vaccine distribution in a major city",
+            "description": "A cyber attack targets the healthcare system of a major city, disrupting the distribution of COVID-19 vaccines and causing delays in vaccination schedules, highlighting the vulnerability of healthcare systems to cyber threats.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 0
+        },
+        {
+            "id": 24,
+            "topic": "Cybersecurity",
+            "title": "Significant data breach at a global social media company",
+            "description": "A major data breach occurs at a global social media company, compromising the personal information of millions of users. This breach raises serious questions about data privacy and security on digital platforms.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 25,
+            "topic": "Cybersecurity",
+            "title": "Adoption of blockchain technology for secure voting systems",
+            "description": "In an effort to enhance the security and integrity of elections, a European country adopts blockchain technology for its national voting system, aiming to mitigate risks of cyber attacks and ensure transparent electoral processes.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 26,
+            "topic": "Cybersecurity",
+            "title": "Massive phishing campaign targeting remote workers",
+            "description": "A massive phishing campaign is launched, targeting remote workers globally. The campaign exploits common remote working tools and practices, leading to significant data breaches and financial losses.",
+            "valid": true,
+            "timeframe": 1710633600,
+            "outcome": 0
+        },
+        {
+            "id": 27,
+            "topic": "Cybersecurity",
+            "title": "Development of AI-powered malware detection tools",
+            "description": "Cybersecurity firms develop new AI-powered malware detection tools that significantly improve the ability to identify and neutralize advanced malware threats, including those enabled by AI technologies.",
+            "valid": false,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 28,
+            "topic": "Cybersecurity",
+            "title": "International cyber warfare treaty discussions",
+            "description": "In response to the increasing use of cyberspace for military operations, several major nations initiate discussions to establish an international treaty aimed at regulating cyber warfare and preventing escalations.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 29,
+            "topic": "Cybersecurity",
+            "title": "Surge in cyber insurance demand",
+            "description": "Due to the rising frequency and severity of cyber attacks, there is a significant surge in demand for cyber insurance, leading to higher premiums and stricter coverage requirements.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 30,
+            "topic": "Automotive",
+            "title": "Major Asian city announces a large-scale deployment of electric buses",
+            "description": "A major city in Asia announces the deployment of 500 new electric buses as part of its public transportation fleet.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 31,
+            "topic": "Automotive",
+            "title": "New EV charging infrastructure plan unveiled in a European capital",
+            "description": "A European capital city announces a new plan to double its EV charging stations by the end of the year.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 32,
+            "topic": "Automotive",
+            "title": "Automotive company launches a new electric SUV model",
+            "description": "A leading automotive company launches a new electric SUV, targeting the family market with advanced safety features and long-range capabilities.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 33,
+            "topic": "Automotive",
+            "title": "City implements new incentives for residents to purchase EVs",
+            "description": "A city in the United States introduces a new incentive program offering tax rebates and free charging for two years to residents who purchase an electric vehicle.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 34,
+            "topic": "Automotive",
+            "title": "Breakthrough in sodium-ion battery technology announced",
+            "description": "A tech startup announces a major breakthrough in sodium-ion battery technology, claiming it offers a cheaper and more sustainable alternative to lithium-ion batteries for EVs.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 35,
+            "topic": "Automotive",
+            "title": "New federal regulation mandates all new cars to be electric by 2030",
+            "description": "The government of a major industrialized country passes a new regulation requiring that all new cars sold must be electric by 2030 as part of its climate strategy.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": -1
+        },
+        {
+            "id": 36,
+            "topic": "Automotive",
+            "title": "Expansion of EV battery recycling facilities",
+            "description": "A major EV manufacturer announces the expansion of its battery recycling facilities to handle increased volume and improve sustainability.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 37,
+            "topic": "Automotive",
+            "title": "Launch of an autonomous electric freight service",
+            "description": "A logistics company launches a new service using autonomous electric trucks for freight delivery, aiming to reduce costs and carbon emissions.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 38,
+            "topic": "Automotive",
+            "title": "Introduction of urban air mobility in a major city",
+            "description": "A major city announces the introduction of urban air mobility services, including electric flying taxis, to reduce traffic congestion and provide faster commuting options.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": -1
+        },
+        {
+            "id": 39,
+            "topic": "Automotive",
+            "title": "New partnership to develop hydrogen fuel infrastructure",
+            "description": "Two major energy companies announce a partnership to develop hydrogen fuel infrastructure across Europe, focusing on fuel stations for commercial vehicles.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 40,
+            "topic": "Climate Change",
+            "title": "Major heatwave strikes Southern Europe",
+            "description": "A severe heatwave hits Southern Europe, breaking previous temperature records and causing widespread health concerns and disruptions.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 41,
+            "topic": "Climate Change",
+            "title": "Significant increase in renewable energy investments in India",
+            "description": "India announces a major surge in investments towards solar and wind energy projects as part of its commitment to reduce carbon emissions and enhance energy security.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 42,
+            "topic": "Climate Change",
+            "title": "New carbon pricing legislation passed in the United States",
+            "description": "The U.S. Congress passes new legislation that introduces a robust carbon pricing mechanism aimed at accelerating the reduction of greenhouse gas emissions.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": -1
+        },
+        {
+            "id": 43,
+            "topic": "Climate Change",
+            "title": "Breakthrough in carbon capture technology",
+            "description": "A major technological breakthrough in carbon capture and storage (CCS) significantly reduces the cost and increases the efficiency of capturing carbon emissions from industrial sources.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 44,
+            "topic": "Climate Change",
+            "title": "Severe flooding in Southeast Asia",
+            "description": "Unprecedented monsoon rains lead to severe flooding across several countries in Southeast Asia, displacing thousands and causing significant economic damage.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 45,
+            "topic": "Climate Change",
+            "title": "Expansion of green financing initiatives in Europe",
+            "description": "European financial institutions announce new green financing initiatives aimed at supporting sustainable projects and companies, with special incentives for renewable energy and decarbonization technologies.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 46,
+            "topic": "Climate Change",
+            "title": "Massive coral bleaching event in the Great Barrier Reef",
+            "description": "A significant coral bleaching event occurs in the Great Barrier Reef, attributed to unusually high ocean temperatures, highlighting the urgent need for global climate action.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 47,
+            "topic": "Climate Change",
+            "title": "Adoption of electric vehicles accelerates globally",
+            "description": "Global sales of electric vehicles (EVs) see a significant increase, driven by government incentives, decreasing costs, and growing consumer awareness of climate issues.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 48,
+            "topic": "Climate Change",
+            "title": "Launch of an international climate resilience fund",
+            "description": "Several countries collaborate to launch a new international fund aimed at supporting climate resilience projects in vulnerable communities around the world.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 49,
+            "topic": "Climate Change",
+            "title": "Major wildfire outbreaks in the Western United States",
+            "description": "A series of large wildfires break out in the Western United States, exacerbated by prolonged drought conditions and high temperatures, leading to significant environmental and economic impacts.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 50,
+            "topic": "Energy",
+            "title": "Major European city announces transition to 100% renewable public transport by end of 2024",
+            "description": "A major European city will announce its plan to transition all public transport systems to renewable energy sources by the end of 2024. This initiative will include the integration of electric buses, solar-powered trams, and hydrogen-fueled vehicles. The city's government will collaborate with private companies to upgrade infrastructure and increase the number of charging stations to support this transition.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 51,
+            "topic": "Energy",
+            "title": "Launch of a new solar-powered residential area in California",
+            "description": "A new residential development in California will be launched, featuring homes that are fully powered by solar energy. This project will include advanced energy storage solutions to ensure 24/7 electricity availability. The development will also feature smart home technologies that optimize energy use and reduce waste, setting a new standard for sustainable living.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 52,
+            "topic": "Energy",
+            "title": "Introduction of hydrogen-powered commercial flights in Scandinavia",
+            "description": "A Scandinavian airline will introduce the first commercial hydrogen-powered flights. This initiative aims to significantly reduce the aviation industry's carbon footprint. The airline will partner with technology providers to retrofit existing aircraft with hydrogen fuel cells and develop new planes designed for hydrogen power.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 53,
+            "topic": "Energy",
+            "title": "Expansion of electric vehicle charging infrastructure in urban India",
+            "description": "India will announce a significant expansion of its electric vehicle charging infrastructure in major urban areas. This expansion will include the installation of thousands of new charging stations and upgrades to existing facilities to reduce congestion and improve accessibility. The initiative is part of India's broader strategy to reduce urban air pollution and promote the use of electric vehicles.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 54,
+            "topic": "Energy",
+            "title": "New federal funding for carbon capture and storage projects in the USA",
+            "description": "The U.S. government will announce new federal funding for multiple large-scale carbon capture and storage (CCS) projects. These projects aim to significantly reduce CO2 emissions from industrial sources, including power plants and manufacturing facilities. The funding is part of a broader effort to meet ambitious climate targets and stimulate job creation in the green technology sector.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 55,
+            "topic": "Energy",
+            "title": "Breakthrough in low-cost solar cell technology announced by a tech startup",
+            "description": "A tech startup will announce a breakthrough in solar cell technology that significantly reduces the cost of solar panels while increasing their efficiency. This innovation will make solar energy more accessible and affordable for a broader range of consumers and businesses. The startup will seek partnerships with major manufacturers to scale production globally.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 56,
+            "topic": "Energy",
+            "title": "National strategy for green hydrogen adoption unveiled by Germany",
+            "description": "Germany will unveil a comprehensive national strategy to boost the adoption of green hydrogen as a key component of its energy transition. The strategy will include subsidies for hydrogen production and infrastructure, as well as partnerships with other European countries to create a hydrogen economy. This move aims to reduce Germany's dependence on fossil fuels and enhance its leadership in clean energy technologies.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 57,
+            "topic": "Energy",
+            "title": "Global consortium forms to standardize and promote battery recycling",
+            "description": "A global consortium of technology companies, environmental organizations, and government agencies will form to standardize and promote the recycling of batteries used in electric vehicles and renewable energy storage. The consortium will develop international standards for recycling processes to ensure efficiency and environmental safety. This initiative reflects the growing need to manage the lifecycle of batteries as their use proliferates.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 58,
+            "topic": "Energy",
+            "title": "Launch of an international clean tech incubator in Singapore",
+            "description": "Singapore will launch an international clean tech incubator aimed at fostering innovation in renewable energy and sustainability. The incubator will provide funding, mentorship, and strategic partnerships to startups from around the world. This initiative is part of Singapore's strategy to become a hub for green technology and attract global talent and investment in the sector.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 59,
+            "topic": "Energy",
+            "title": "New legislation for mandatory solar installations in new commercial buildings in Australia",
+            "description": "The Australian government will pass new legislation requiring all new commercial buildings to include solar installations. This law aims to increase the use of renewable energy in the commercial sector and reduce carbon emissions. The legislation will include incentives for building owners to adopt solar energy, such as tax rebates and grants.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 60,
+            "topic": "Geopolitics",
+            "title": "Escalation of military presence in the South China Sea by China and the United States",
+            "description": "In response to increasing tensions over territorial claims, both China and the United States are likely to significantly escalate their military presence in the South China Sea. This move will include the deployment of additional naval ships, submarines, and surveillance aircraft. The increased military activity aims to assert dominance and protect strategic interests in the region, leading to heightened tensions between the two superpowers and their allies.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 61,
+            "topic": "Geopolitics",
+            "title": "Formation of a new military alliance in Eastern Europe",
+            "description": "Countries in Eastern Europe, led by Poland and Ukraine, are likely to announce the formation of a new military alliance. This alliance aims to counter the perceived threats from Russia and to enhance regional security. The alliance will focus on joint military exercises, intelligence sharing, and the development of combined defense strategies. This move will also seek support from NATO and the European Union to bolster its legitimacy and capabilities.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": -1
+        },
+        {
+            "id": 62,
+            "topic": "Geopolitics",
+            "title": "Renewed conflict in the Kashmir region between India and Pakistan",
+            "description": "Tensions between India and Pakistan are likely to escalate into renewed conflict in the Kashmir region. This resurgence of violence will stem from unresolved territorial disputes and increased militant activities. Both nations will engage in cross-border skirmishes, leading to international concerns about the potential for a larger conflict involving nuclear-armed states. The situation will prompt urgent diplomatic interventions from global powers.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 63,
+            "topic": "Geopolitics",
+            "title": "Strategic partnership between Japan and Australia to counter China's influence",
+            "description": "Japan and Australia are likely to announce a strategic partnership aimed at countering China's growing influence in the Indo-Pacific region. This partnership will include enhanced military cooperation, joint naval exercises, and increased economic ties. The collaboration is intended to ensure a balance of power in the region and to support smaller nations in resisting coercive actions from larger powers.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 64,
+            "topic": "Geopolitics",
+            "title": "Economic sanctions on Iran by Western countries due to nuclear program advancements",
+            "description": "Western countries, led by the United States and the European Union, are likely to impose new economic sanctions on Iran. These sanctions will be in response to Iran's continued advancement of its nuclear program, which is perceived as a threat to regional stability and global security. The sanctions will target key sectors such as oil, banking, and technology, aiming to pressure Iran into compliance with international nuclear agreements.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 65,
+            "topic": "Geopolitics",
+            "title": "Increased Russian military activity in the Arctic",
+            "description": "Russia is likely to significantly increase its military activity in the Arctic region. This move will include the construction of new military bases, deployment of advanced missile systems, and increased naval patrols. The strategic aim is to secure Russia's claims over vast natural resources in the region and to assert control over new shipping routes emerging due to melting ice. This development will prompt concerns from other Arctic nations and lead to calls for a unified response.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 66,
+            "topic": "Geopolitics",
+            "title": "Diplomatic crisis between Turkey and Greece over Aegean Sea disputes",
+            "description": "A diplomatic crisis is likely to erupt between Turkey and Greece due to ongoing disputes over territorial waters and airspace in the Aegean Sea. The crisis will escalate following a series of military confrontations involving naval ships and fighter jets from both countries. This situation will strain relations within NATO and prompt urgent mediation efforts by the European Union and the United States to prevent further escalation.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 67,
+            "topic": "Geopolitics",
+            "title": "Surge in cyberattacks targeting critical infrastructure in the United States",
+            "description": "A significant surge in cyberattacks targeting critical infrastructure in the United States is likely to occur, orchestrated by state-sponsored actors from rival nations. These cyberattacks aim to disrupt essential services such as electricity, water supply, and transportation, creating chaos and undermining public confidence in government security measures. The attacks will lead to a major reevaluation of national cybersecurity strategies and international cooperation on cyber defense.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 68,
+            "topic": "Geopolitics",
+            "title": "Breakdown of peace talks between Israel and Palestine",
+            "description": "Peace talks between Israel and Palestine are likely to breakdown, leading to a resurgence of violence in the region. The collapse of negotiations will be due to irreconcilable differences over key issues such as borders, the status of Jerusalem, and the right of return for Palestinian refugees. The breakdown will result in increased rocket attacks and military operations, drawing international condemnation and calls for a renewed peace process.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 69,
+            "topic": "Geopolitics",
+            "title": "New trade agreements between ASEAN countries and China",
+            "description": "ASEAN countries and China are likely to sign new trade agreements aimed at reducing tariffs and increasing investment flows. These agreements will focus on sectors such as technology, agriculture, and manufacturing, aiming to strengthen economic ties and regional integration. The move is part of China's strategy to assert its economic influence in Southeast Asia and counterbalance the economic policies of Western nations in the region.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 70,
+            "topic": "Disinformation",
+            "title": "AI-generated disinformation spikes during the US midterm elections",
+            "description": "In the months leading up to the US midterm elections, there is a significant increase in AI-generated disinformation campaigns. These campaigns are sophisticated, using deepfake technology to create realistic but false images and videos of political candidates saying or doing things that never happened. This surge in disinformation aims to manipulate public opinion and influence the election outcomes.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 71,
+            "topic": "Disinformation",
+            "title": "Global crackdown on social media platforms",
+            "description": "Governments around the world start to implement stricter regulations on social media platforms to curb the spread of disinformation. This includes imposing heavy fines for failing to remove false information and requiring platforms to enhance their verification processes. The crackdown leads to significant changes in how social media companies operate, aiming to restore public trust in digital communications.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 72,
+            "topic": "Disinformation",
+            "title": "Rise of community-driven fact-checking initiatives",
+            "description": "As disinformation continues to proliferate, community-driven fact-checking initiatives gain popularity and credibility. These grassroots movements are powered by volunteers who use open-source intelligence techniques to debunk false information circulating in their communities. Their efforts are recognized and supported by international organizations seeking to promote truth in media.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 73,
+            "topic": "Disinformation",
+            "title": "Increase in disinformation targeting climate change policies",
+            "description": "In the lead-up to major international climate summits, there is a noticeable increase in disinformation campaigns targeting climate change policies. These campaigns are orchestrated by interest groups aiming to undermine public support for significant environmental actions. They spread misleading information about the economic impacts of climate policies, stirring public resistance.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 74,
+            "topic": "Disinformation",
+            "title": "Manipulation of historical narratives intensifies",
+            "description": "Political leaders in various countries intensify their efforts to manipulate historical narratives to strengthen their grip on power. By distorting history, they aim to justify controversial policies and suppress dissent. This leads to increased censorship in educational materials and media, sparking domestic and international criticism.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 75,
+            "topic": "Disinformation",
+            "title": "Surge in vaccine misinformation amid new health crisis",
+            "description": "A new health crisis triggers a surge in vaccine misinformation, fueled by conspiracy theories and skepticism about vaccine safety and efficacy. This misinformation spreads rapidly on social media, leading to lower vaccination rates and hindering public health responses. Governments and health organizations struggle to counteract the false narratives and encourage vaccination.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 76,
+            "topic": "Disinformation",
+            "title": "Backlash against AI for spreading election misinformation",
+            "description": "Public backlash grows against AI technologies used to spread misinformation about elections. Concerned citizens and advocacy groups call for stricter regulations on AI development and deployment, particularly regarding its use in creating and disseminating false information. Tech companies face pressure to implement more robust measures to prevent their platforms from being exploited.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 77,
+            "topic": "Disinformation",
+            "title": "Emergence of deepfake detection technologies",
+            "description": "As deepfake technology becomes more sophisticated, new detection technologies emerge to combat this form of disinformation. Startups specializing in AI and machine learning develop tools that can quickly and accurately identify altered videos and images, helping to restore trust in digital media. These technologies begin to be widely adopted by news organizations and social media platforms.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 78,
+            "topic": "Disinformation",
+            "title": "National campaigns to educate on media literacy",
+            "description": "Governments launch national campaigns to improve media literacy among the public, particularly targeting schools and vulnerable populations. These campaigns focus on teaching critical thinking skills, recognizing misinformation, and understanding the impact of disinformation on democracy. The initiatives receive widespread support from educators and civil society organizations.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 79,
+            "topic": "Disinformation",
+            "title": "Increase in legal actions against disinformation spreaders",
+            "description": "There is an increase in legal actions taken against individuals and organizations responsible for spreading disinformation. These cases often involve accusations of defamation, election interference, and inciting public unrest. The legal battles garner significant media attention, highlighting the serious consequences of disseminating false information.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 80,
+            "topic": "Blockchain",
+            "title": "Major US city adopts blockchain for property records",
+            "description": "A major city in the United States announces the implementation of a blockchain-based system for managing property ownership records. This system aims to enhance transparency, reduce fraud, and streamline property transactions. The city partners with a leading blockchain technology provider to develop and deploy the system.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 81,
+            "topic": "Blockchain",
+            "title": "European country launches a blockchain-based digital identity program",
+            "description": "A European nation announces the rollout of a national digital identity system powered by blockchain technology. This program is designed to provide citizens with a secure, immutable digital identity that can be used for various governmental and private sector services.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 82,
+            "topic": "Blockchain",
+            "title": "Global cryptocurrency exchange introduces new consumer protection features",
+            "description": "A leading global cryptocurrency exchange announces the introduction of enhanced consumer protection features, including insurance for digital assets and improved transaction monitoring. This move comes as a response to growing demands for better security and accountability in the crypto space.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 83,
+            "topic": "Blockchain",
+            "title": "New blockchain scalability solution unveiled",
+            "description": "A tech startup unveils a new blockchain scalability solution that promises to significantly increase transaction speeds while reducing costs. The solution uses a novel layer-2 protocol that operates on top of existing blockchain networks.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 84,
+            "topic": "Blockchain",
+            "title": "Insurance giant adopts blockchain for claims processing",
+            "description": "A major global insurance company announces the adoption of blockchain technology to manage claims processing. This new system is expected to reduce fraud, speed up claim resolutions, and lower operational costs.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 85,
+            "topic": "Blockchain",
+            "title": "Central bank in Asia launches a CBDC pilot",
+            "description": "A central bank in Asia announces the launch of a pilot program for its own Central Bank Digital Currency (CBDC). The pilot aims to evaluate the feasibility of CBDCs in improving financial inclusivity and streamlining payment systems.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 86,
+            "topic": "Blockchain",
+            "title": "Popular NFT platform integrates with virtual worlds",
+            "description": "A leading NFT platform announces integration with several virtual worlds, allowing users to use their NFTs as avatars and assets across different decentralized virtual environments. This integration aims to enhance user experience and increase the utility of NFTs.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 87,
+            "topic": "Blockchain",
+            "title": "New regulation for crypto exchanges in the EU",
+            "description": "The European Union introduces new regulations for cryptocurrency exchanges operating within its jurisdiction. The regulations mandate stricter KYC and AML procedures, as well as improved transparency and reporting standards.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 88,
+            "topic": "Blockchain",
+            "title": "Decrease in cryptocurrency mining rewards",
+            "description": "Following a scheduled network update, the rewards for mining major cryptocurrencies such as Bitcoin are significantly reduced. This change aims to address issues of energy consumption and network scalability.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 89,
+            "topic": "Blockchain",
+            "title": "Blockchain-based system for chemical weapons norm enforcement",
+            "description": "An international organization dedicated to the non-proliferation of chemical weapons launches a blockchain-based system to track and verify the destruction of chemical weapons. This system provides an immutable and transparent record of compliance with international norms.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 90,
+            "topic": "Space",
+            "title": "China announces a successful lunar landing",
+            "description": "China's space agency announces a successful soft landing on the lunar surface, marking a significant milestone in its lunar exploration program. The mission includes deploying a rover to explore the moon's surface, particularly focusing on water ice detection in permanently shadowed regions. This achievement underscores China's growing capabilities and ambitions in space.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 91,
+            "topic": "Space",
+            "title": "SpaceX launches a reusable spacecraft for orbital flights",
+            "description": "SpaceX successfully launches and returns a new model of a reusable spacecraft designed for multiple orbital flights. This development is aimed at reducing the cost of access to space and facilitating a range of missions from satellite deployment to space tourism. The successful test flight demonstrates significant advancements in spacecraft technology and operational efficiency.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 92,
+            "topic": "Space",
+            "title": "International collaboration to build a lunar base",
+            "description": "Several nations, including the USA, EU, and Japan, announce a collaborative project to build a manned lunar base. This initiative aims to establish a sustainable human presence on the moon, facilitating scientific research and testing technologies for Mars missions. The collaboration highlights a strategic shift towards multinational partnerships in space exploration.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 93,
+            "topic": "Space",
+            "title": "Breakthrough in asteroid mining technology",
+            "description": "A private company announces a breakthrough in technology that significantly lowers the cost and increases the efficiency of asteroid mining. This technology allows for the extraction of valuable minerals and metals from asteroids close to Earth. The development could revolutionize the materials economy and has implications for future long-duration space missions.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 94,
+            "topic": "Space",
+            "title": "Discovery of a new exoplanet with Earth-like conditions",
+            "description": "Astronomers announce the discovery of a new exoplanet located in the habitable zone of its star, with conditions similar to Earth. This discovery is made using advanced telescopes equipped with new spectral analysis technologies. The planet becomes a prime candidate for future detailed studies and potentially, human exploration.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 95,
+            "topic": "Space",
+            "title": "Cyber attack on satellite systems",
+            "description": "A significant cyber attack targets multiple commercial satellite systems, disrupting global communications and data services. The attack exposes vulnerabilities in satellite security and prompts an international call for enhanced cybersecurity measures in the space sector. This event highlights the growing importance of cybersecurity in an increasingly interconnected space infrastructure.",
+            "valid": true,
+            "timeframe": 1710633600,
+            "outcome": 1
+        },
+        {
+            "id": 96,
+            "topic": "Space",
+            "title": "New space meal options introduced on the ISS",
+            "description": "Astronauts on the International Space Station begin testing a new range of space meals designed to provide enhanced nutrition and variety. These meals are developed through a collaboration between space agencies and food technology companies, aiming to improve the well-being and morale of crew members during long-duration missions.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 97,
+            "topic": "Space",
+            "title": "Increase in satellite launches for global internet coverage",
+            "description": "Several companies, including new entrants in the space industry, launch a series of satellites aimed at providing global high-speed internet coverage. This surge in satellite launches is driven by the increasing demand for reliable and accessible internet services worldwide, especially in remote and underserved areas.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 98,
+            "topic": "Space",
+            "title": "New guidelines for gender inclusion in space missions",
+            "description": "International space agencies adopt new guidelines aimed at promoting gender inclusion in all future space missions. These guidelines focus on ensuring equal opportunities for training, mission roles, and scientific research. The move is part of a broader effort to address gender perspectives in space security and foster inclusive environments.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 99,
+            "topic": "Space",
+            "title": "New space-based solar power stations announced",
+            "description": "A consortium of energy and aerospace companies announces plans to build solar power stations in space. These stations will capture solar energy and transmit it back to Earth, providing a sustainable and constant power supply. The project aims to address growing energy needs and reduce reliance on fossil fuels.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 100,
+            "topic": "Arctic",
+            "title": "Russia announces new Arctic military base",
+            "description": "Russia declares the establishment of a new military base in the Arctic region, specifically on the Franz Josef Land archipelago. This move is part of a broader strategy to assert control over strategic Arctic waterways and resources. The base is intended to enhance Russia's ability to monitor and secure its interests in the Arctic, amidst increasing global interest in the region.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 101,
+            "topic": "Arctic",
+            "title": "UN-led Arctic environmental summit",
+            "description": "The United Nations organizes a major summit focused on the environmental conditions of the Arctic. The summit aims to foster international collaboration and develop strategies to mitigate the effects of climate change and ice decline in the region. Key topics include sustainable resource management and the implementation of advanced sensing technologies for environmental monitoring.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 102,
+            "topic": "Arctic",
+            "title": "China launches Arctic satellite constellation",
+            "description": "China launches a new satellite constellation designed specifically for the Arctic region. These satellites are equipped with advanced sensing technologies to monitor climate change effects and ice conditions. This initiative not only boosts China's presence in the Arctic but also contributes valuable data to global climate research efforts.",
+            "valid": false,
+            "timeframe": 1721001600,
+            "outcome": -1
+        },
+        {
+            "id": 103,
+            "topic": "Arctic",
+            "title": "Nordic countries form Arctic surveillance coalition",
+            "description": "Sweden, Norway, and Finland announce the formation of an Arctic Surveillance Coalition aimed at enhancing regional security and monitoring environmental changes. This coalition plans to deploy a network of drones and satellites, leveraging the latest in sensing technology to keep a close watch on strategic waterways and environmental conditions.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 104,
+            "topic": "Arctic",
+            "title": "Arctic Council introduces new resource-sharing protocol",
+            "description": "The Arctic Council, seeing the need for better resource management due to increasing food insecurity and environmental concerns, introduces a new protocol for the sharing of Arctic resources. This protocol emphasizes non-monetary contributions such as technology sharing and joint research initiatives, aiming to foster a more cooperative approach to Arctic governance.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 105,
+            "topic": "Arctic",
+            "title": "Major oil spill in the Arctic Ocean",
+            "description": "A significant oil spill occurs in the Arctic Ocean due to a ruptured pipeline operated by a major oil company. This environmental disaster prompts immediate international response and raises serious questions about the safety protocols and environmental impact assessments in Arctic resource extraction projects.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 106,
+            "topic": "Arctic",
+            "title": "Innovative Arctic agriculture project launched",
+            "description": "A multinational consortium launches an innovative agriculture project in the Arctic, aimed at addressing food insecurity through the development of cold-resistant crops. Utilizing genetic engineering and advanced agricultural technologies, this project seeks to turn the Arctic into a viable site for sustainable agriculture.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 107,
+            "topic": "Arctic",
+            "title": "Breakthrough in Arctic climate prediction models",
+            "description": "Scientists from an international climate research institute announce a breakthrough in climate prediction models specifically for the Arctic region. These models, which integrate advanced sensing data and AI algorithms, significantly improve the accuracy of forecasting climate-related changes and their impacts on global weather patterns.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 108,
+            "topic": "Arctic",
+            "title": "International treaty on Arctic biodiversity",
+            "description": "An international treaty focused on the conservation of Arctic biodiversity is signed by multiple countries, including those with Arctic territories. The treaty establishes protected areas and sets strict guidelines for activities that could impact the region's unique flora and fauna, responding to the increased attention to environmental conditions.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 109,
+            "topic": "Arctic",
+            "title": "Expansion of Arctic broadband infrastructure",
+            "description": "A major tech company partners with Arctic nations to expand broadband infrastructure across the region. This project aims to improve communication capabilities, support advanced sensing technologies, and boost socio-economic development in remote Arctic communities. It represents a significant investment in the technological upliftment of the Arctic.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 110,
+            "topic": "United Kingdom",
+            "title": "UK hosts a major international summit on AI and cybersecurity",
+            "description": "The United Kingdom will host a significant international summit focusing on advancements in artificial intelligence and cybersecurity. This event will gather global leaders, tech companies, and security experts to discuss collaborative measures and innovations. The summit aims to address the growing challenges and opportunities in cybersecurity and AI, fostering international cooperation.",
+            "valid": false,
+            "timeframe": 1718409600,
+            "outcome": -1
+        },
+        {
+            "id": 111,
+            "topic": "United Kingdom",
+            "title": "UK strengthens trade relations with India",
+            "description": "In the next few months, the United Kingdom is expected to announce a new trade agreement with India. This agreement will likely focus on technology, services, and manufacturing sectors, aiming to boost economic ties and mutual investments. The deal is part of the UK's strategy to diversify its trade partnerships post-Brexit and strengthen its economic position globally.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 112,
+            "topic": "United Kingdom",
+            "title": "UK government faces backlash over environmental policy",
+            "description": "The UK government will face significant public and political backlash due to perceived insufficient actions on climate change. Criticism will focus on the slow implementation of green technologies and inadequate support for sustainable practices. This will lead to protests and heightened media scrutiny, influencing future policy adjustments.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 113,
+            "topic": "United Kingdom",
+            "title": "Surge in UK tech startups due to government incentives",
+            "description": "The UK will experience a surge in new tech startups in the coming months, driven by government incentives and investments in the technology sector. These startups will focus on AI, cybersecurity, and sustainable technologies, aiming to position the UK as a leader in these fields. This growth will also be supported by collaborations with universities and research institutions.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 114,
+            "topic": "United Kingdom",
+            "title": "UK enhances public transportation accessibility",
+            "description": "The UK government will announce major enhancements to the accessibility of public transportation systems across the country. These improvements will include better facilities for disabled individuals, upgraded digital services, and more environmentally friendly transport options. The initiative aims to promote inclusivity and reduce the carbon footprint of public transport.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 115,
+            "topic": "United Kingdom",
+            "title": "UK faces increased cyber threats from foreign actors",
+            "description": "The United Kingdom will experience an increase in cyber threats from foreign actors, targeting critical infrastructure and government systems. This escalation is due to heightened global tensions and the UK's prominent role in international cybersecurity efforts. The government will respond by strengthening its cyber defenses and increasing collaboration with allies.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 116,
+            "topic": "United Kingdom",
+            "title": "UK labor market sees significant wage growth",
+            "description": "The United Kingdom's labor market will witness significant wage growth in the next few months, particularly in the technology and healthcare sectors. This increase is driven by a shortage of skilled workers and the government's focus on improving employment conditions. Higher wages are expected to boost consumer spending and stimulate economic growth.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 117,
+            "topic": "United Kingdom",
+            "title": "UK increases investment in renewable energy projects",
+            "description": "The UK will announce a significant increase in investment in renewable energy projects, focusing on wind and solar power. This initiative is part of the government's commitment to achieving carbon neutrality and reducing reliance on fossil fuels. The investment will include funding for new projects and subsidies for companies and households adopting renewable energy.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 118,
+            "topic": "United Kingdom",
+            "title": "Controversial UK legislation leads to international criticism",
+            "description": "The UK government will pass controversial legislation that restricts online freedoms under the guise of national security. This move will lead to international criticism, particularly from human rights organizations and allied countries. The criticism will focus on the balance between security and individual rights, impacting the UK's international image.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 119,
+            "topic": "United Kingdom",
+            "title": "UK experiences a cultural renaissance in post-pandemic recovery",
+            "description": "As part of its post-pandemic recovery, the United Kingdom will experience a cultural renaissance, with a surge in arts and cultural events across the country. This revival will be supported by government funding and public-private partnerships, aiming to boost tourism and revitalize local economies. The focus will be on inclusivity and celebrating the UK's diverse cultural heritage.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 120,
+            "topic": "United States",
+            "title": "US announces new cybersecurity alliance with European nations",
+            "description": "In response to increasing cyber threats, the United States announces a new cybersecurity alliance with key European nations. This alliance aims to enhance collective cyber defense capabilities, share critical threat intelligence, and develop joint strategies to counter cyber threats from state and non-state actors. The collaboration also focuses on protecting critical infrastructure and improving the resilience of digital systems across the allied nations.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 121,
+            "topic": "United States",
+            "title": "US imposes new economic sanctions on a country due to escalating tensions",
+            "description": "As tensions continue to escalate in a specific region, the United States decides to impose new economic sanctions on the country perceived as the aggressor. These sanctions target key sectors such as energy, military, and technology. The move aims to pressure the government to cease hostile activities and engage in diplomatic negotiations, aligning with international efforts to restore peace and stability in the region.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 122,
+            "topic": "United States",
+            "title": "US and China enter a new phase of economic cooperation",
+            "description": "In a surprising turn of events, the United States and China announce a new phase of economic cooperation. This includes agreements on trade, technology exchange, and climate change initiatives. The cooperation is seen as a strategic move to stabilize global markets, address mutual economic challenges, and position both nations as leaders in sustainable development. This development follows months of diplomatic negotiations and is a significant shift from previous tensions.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 123,
+            "topic": "United States",
+            "title": "US leads a new international climate initiative",
+            "description": "The United States takes the lead in launching a new international climate initiative aimed at significantly reducing global carbon emissions. The initiative involves setting more aggressive targets for renewable energy adoption and implementing stricter emissions standards. Several countries join this initiative, motivated by recent extreme weather events and growing public demand for action on climate change.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 124,
+            "topic": "United States",
+            "title": "US tech companies face increased regulation",
+            "description": "The United States government announces new regulations targeting major technology companies, focusing on issues such as data privacy, market competition, and misinformation. These regulations are part of a broader effort to address the growing influence of tech giants and ensure a more competitive and fair digital market. The move follows extensive public and political scrutiny over the practices of these companies.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 125,
+            "topic": "United States",
+            "title": "US increases support for lunar exploration",
+            "description": "The United States announces increased funding and support for lunar exploration projects, in partnership with private companies and international space agencies. This initiative aims to establish a sustainable human presence on the moon as a stepping stone for future Mars missions. The announcement comes as part of a broader strategy to maintain leadership in space exploration amid growing competition from other nations.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 126,
+            "topic": "United States",
+            "title": "US mediates peace talks in conflict region",
+            "description": "The United States takes on a mediating role in peace talks between conflicting nations in a volatile region. The US aims to leverage its diplomatic influence to broker a ceasefire and lay the groundwork for a lasting peace agreement. This initiative is part of a broader strategy to stabilize the region, which is critical for global security and economic interests.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 127,
+            "topic": "United States",
+            "title": "US faces backlash over new trade restrictions",
+            "description": "The United States faces international backlash after imposing new trade restrictions on several countries accused of violating intellectual property rights. The restrictions include tariffs and import bans aimed at protecting US industries. However, affected countries criticize the move as protectionist and threaten retaliatory measures, raising concerns about a potential trade war.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 128,
+            "topic": "United States",
+            "title": "US increases military presence in Indo-Pacific",
+            "description": "In response to growing security concerns in the Indo-Pacific region, the United States announces an increase in its military presence. This includes deploying additional naval assets and conducting joint military exercises with allied nations. The move aims to deter potential aggressors and ensure the freedom of navigation in strategic waterways, reflecting a commitment to regional stability and security.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 129,
+            "topic": "United States",
+            "title": "US leads global initiative on AI safety standards",
+            "description": "The United States spearheads a new global initiative to develop and implement safety standards for artificial intelligence technologies. This initiative brings together experts, policymakers, and industry leaders from around the world to address ethical concerns and potential risks associated with AI. The collaboration aims to ensure that AI development is aligned with human values and does not pose unintended threats to society.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 130,
+            "topic": "European Union",
+            "title": "EU leaders convene a summit to address rising political extremism",
+            "description": "In response to the growing concerns about political extremism, EU leaders will convene a summit in Brussels to formulate a unified strategy to combat the rise of extremist movements across the continent. The summit will focus on enhancing cooperation between member states' law enforcement agencies, increasing funding for community-based programs that counter radicalization, and tightening regulations on online platforms used for extremist propaganda.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 131,
+            "topic": "European Union",
+            "title": "EU announces new regulatory framework for AI",
+            "description": "The European Union will announce a comprehensive regulatory framework for artificial intelligence, focusing on ethical guidelines, transparency, and accountability in AI development and deployment. This initiative aims to position the EU as a leader in ethical AI globally, ensuring that AI technologies are used in a manner that respects human rights and promotes social welfare.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 132,
+            "topic": "European Union",
+            "title": "EU to boost support for renewable energy projects",
+            "description": "In an effort to meet its climate targets, the European Union will significantly increase its financial and policy support for renewable energy projects across member states. This will include subsidies for solar and wind energy installations, grants for research in energy storage technologies, and incentives for businesses and households to transition to renewable energy sources.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 133,
+            "topic": "European Union",
+            "title": "EU imposes stricter immigration controls amid policy revision",
+            "description": "As part of its efforts to revise and improve immigration policies, the European Union will implement stricter controls on immigration. This will involve enhanced screening processes, increased border security, and stricter criteria for asylum seekers. The move aims to address security concerns while ensuring the protection of refugees and asylum seekers' rights.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 134,
+            "topic": "European Union",
+            "title": "EU launches initiative to combat online hate speech",
+            "description": "The European Union will launch a major initiative aimed at combating online hate speech and misinformation. This will involve collaboration with major tech companies to develop more effective content moderation tools, public awareness campaigns about the impact of hate speech, and stricter penalties for violations. The initiative seeks to create a safer online environment and uphold democratic values.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 135,
+            "topic": "European Union",
+            "title": "EU to mediate escalating tensions in Eastern Europe",
+            "description": "The European Union will take an active role in mediating the escalating geopolitical tensions in Eastern Europe. This will involve diplomatic missions to the affected countries, hosting peace talks in a neutral EU country, and proposing economic incentives for cooperation. The EU aims to stabilize the region and prevent the conflict from affecting broader European security.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 136,
+            "topic": "European Union",
+            "title": "EU introduces new measures to protect digital consumer rights",
+            "description": "The European Union will introduce new legislative measures aimed at protecting digital consumer rights. These measures will include stricter data protection laws, transparency requirements for algorithms used in consumer interactions, and rights to repair for electronic devices. The initiative is part of the EU's broader effort to ensure fair digital markets and protect consumers from exploitation.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 0
+        },
+        {
+            "id": 137,
+            "topic": "European Union",
+            "title": "EU funds major infrastructure projects to boost economic growth",
+            "description": "In an effort to stimulate economic growth and modernize infrastructure, the European Union will allocate significant funding to major infrastructure projects across member states. These projects will focus on transportation, digital infrastructure, and energy efficiency, aiming to create jobs, improve connectivity, and reduce carbon emissions.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 138,
+            "topic": "European Union",
+            "title": "EU negotiates new trade agreements with Indo-Pacific countries",
+            "description": "The European Union will enter negotiations for new trade agreements with several Indo-Pacific countries. These agreements will focus on reducing trade barriers, enhancing mutual access to markets, and promoting sustainable trade practices. The EU aims to strengthen its economic ties with the Indo-Pacific region and diversify its trade relationships amid global economic shifts.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 0
+        },
+        {
+            "id": 139,
+            "topic": "European Union",
+            "title": "EU adopts ambitious new targets for carbon reduction",
+            "description": "The European Union will adopt new, more ambitious targets for carbon reduction, aiming to accelerate its transition to a low-carbon economy. This will involve increased investment in renewable energy, stricter emissions standards for industries, and financial incentives for companies that achieve significant emissions reductions. The initiative reflects the EU's commitment to leading global efforts against climate change.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 140,
+            "topic": "Egypt",
+            "title": "Egypt increases investment in renewable energy projects",
+            "description": "In response to the stalling global efforts towards transitioning from fossil fuels, Egypt accelerates its investment in renewable energy projects, particularly in solar and wind energy. This initiative is part of a broader strategy to enhance energy security and reduce carbon emissions, aligning with Egypt's Vision 2030. The projects are expected to attract international investors and create thousands of jobs, boosting the local economy.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 1
+        },
+        {
+            "id": 141,
+            "topic": "Egypt",
+            "title": "Egypt engages in diplomatic efforts to stabilize regional tensions",
+            "description": "Amid escalating conflicts in the region, Egypt steps up its diplomatic efforts to mediate and propose solutions to stabilize the situation. These efforts are aimed at maintaining the security of the Suez Canal, a critical global trade route, and preventing further economic repercussions. Egypt's role as a mediator is supported by its historical and strategic ties in the Middle East.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        },
+        {
+            "id": 142,
+            "topic": "Egypt",
+            "title": "Increase in cyber threats targeting Egypt's critical infrastructure",
+            "description": "As regional tensions escalate and Egypt's reliance on digital technologies grows, there is a significant increase in cyber threats targeting its critical infrastructure, including energy, transportation, and government systems. The government responds by enhancing cybersecurity measures and collaborating with international cybersecurity firms to safeguard its assets.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 0
+        },
+        {
+            "id": 143,
+            "topic": "Egypt",
+            "title": "Egypt faces challenges in food safety due to increased demand",
+            "description": "With the growing population and increased awareness of health issues, Egypt faces significant challenges in ensuring food safety. The government implements stricter regulations and invests in technology to monitor and control food quality. This move aims to prevent foodborne illnesses and align with international food safety standards, thereby boosting export opportunities.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 144,
+            "topic": "Egypt",
+            "title": "Young Egyptian women increasingly participate in politics",
+            "description": "Following a global trend and driven by local advocacy groups, there is a noticeable increase in the engagement of young Egyptian women in political processes. Initiatives to educate and empower women about their political rights lead to higher participation rates in elections and more women holding public office. This shift contributes to a more inclusive governance structure in Egypt.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": 0
+        },
+        {
+            "id": 145,
+            "topic": "Egypt",
+            "title": "Egypt strengthens its mining sector with new investments",
+            "description": "Capitalizing on high global metal prices and its rich mineral resources, Egypt attracts significant investments into its mining sector. New mines are opened, and existing ones are expanded, leading to job creation and increased exports. This development is part of Egypt's broader economic diversification strategy to reduce dependence on traditional sectors like tourism and agriculture.",
+            "valid": true,
+            "timeframe": 1718409600,
+            "outcome": 1
+        },
+        {
+            "id": 146,
+            "topic": "Egypt",
+            "title": "Egypt experiences disruptions in the Suez Canal",
+            "description": "Due to increasing regional military actions and political instability, the Suez Canal experiences disruptions, affecting global shipping routes and trade flows. Egypt's economy, heavily reliant on canal revenues, faces immediate impacts. In response, Egypt enhances its military presence in the area and seeks international cooperation to secure the canal.",
+            "valid": true,
+            "timeframe": 1713225600,
+            "outcome": 1
+        },
+        {
+            "id": 147,
+            "topic": "Egypt",
+            "title": "Egypt's debt burden worsens, impacting economic stability",
+            "description": "As global economic conditions tighten and investment slows, Egypt's existing debt burden worsens, leading to challenges in funding essential public services and development projects. The government seeks restructuring of its debt and explores new sources of revenue, including increased taxes and privatization of state-owned enterprises.",
+            "valid": true,
+            "timeframe": 1723593600,
+            "outcome": -1
+        },
+        {
+            "id": 148,
+            "topic": "Egypt",
+            "title": "Egypt plays a key role in Middle Eastern peace initiatives",
+            "description": "Building on its historical role as a peace mediator in the Middle East, Egypt successfully brokers new peace talks between conflicting parties in the region. These efforts are part of a larger diplomatic campaign to stabilize the region and promote economic cooperation. The success of these talks enhances Egypt's international standing and contributes to regional security.",
+            "valid": true,
+            "timeframe": 1721001600,
+            "outcome": 1
+        },
+        {
+            "id": 149,
+            "topic": "Egypt",
+            "title": "Egypt intensifies efforts to combat cyber threats",
+            "description": "In response to a surge in cyber threats targeting its critical infrastructure, Egypt intensifies its efforts to combat these threats. The government collaborates with international cybersecurity experts to enhance its defensive capabilities and implements stringent cybersecurity laws. These measures aim to protect national security and maintain the integrity of Egypt's digital infrastructure.",
+            "valid": true,
+            "timeframe": 1715817600,
+            "outcome": 1
+        }
+    ]
+}
